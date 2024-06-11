@@ -1,4 +1,3 @@
-jenkins
 gitlab/gitlab-ce
 mongo
 redis
