@@ -1,3 +1,4 @@
+cturra/ntp:latest
 gitlab/gitlab-ce
 mongo
 redis
