@@ -18,3 +18,6 @@ ubuntu/squid:latest
 hanfangyuan/dify-on-wechat
 zhayujie/chatgpt-on-wechat
 containrrr/watchtower
+quay.io/minio/minio
+postgres:13.1
+joplin/server:latest
