@@ -47,3 +47,13 @@ docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
 registry.cn-hangzhou.aliyuncs.com 即 ALIYUN_REGISTRY<br>
 shrimp-images 即 ALIYUN_NAME_SPACE<br>
 alpine 即images.txt里面填的镜像<br>
+
+## 更新时间
+触发工作流程的事件。这里有两种触发方式：
+
+workflow_dispatch:
+- 允许手动触发工作流程。
+push:
+- 当代码推送到 GitHub 仓库时自动触发工作流程，只对
+main
+分支生效。
