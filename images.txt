@@ -1,3 +1,4 @@
+flowable/flowable-ui
 postgres:16
 cturra/ntp:latest
 gitlab/gitlab-ce
