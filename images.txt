@@ -1,4 +1,3 @@
-node
 leifengyang/jenkins:2.455-jdk21
 flowable/flowable-ui
 postgres:16
